@@ -32,7 +32,7 @@ const About = () => {
 
             <div className='about_card'>
             <FaFolderOpen className='icon'/>
-              <h5>Projects</h5>
+              <h5>Project</h5>
               <small>60+ Completed</small>
             </div>
           </div>
